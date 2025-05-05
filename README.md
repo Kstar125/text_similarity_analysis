@@ -1,0 +1,1 @@
+An implementation of Word2Vec exploring cosine similarities and word representations in two writing samples.
